@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test name="CS522 Week11 Tests">
+        <classes>
+            <class name="annotationsTest2"></class>
+            <class name="annotationsTest"></class>
+            <class name="sequencingTest"></class>
+            <class name="sequencingEnableDisable"></class>
+            <class name="priorityNoAnnotationTest"></class>
+            <class name="priorityHasAnnotationTest"></class>
+            <class name="priorityHasSameAnnotationTest"></class>
+            <class name="priorityWebpagesTest"></class>
+            <class name="dependentTest"></class>
+            <class name="assertionTest"></class>
+            <class name="TestEbayMultiPricesSearch2"></class>
+        </classes>
+    </test>
+</suite>
